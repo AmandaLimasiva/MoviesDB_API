@@ -1,6 +1,6 @@
 import { Container, MovieList, Movie } from "./styles";
 //import { APIKey } from "./config/key.js";
-import {APIKey} from "./config/key.js";
+import {APIKey} from "../../config/key.js";
 import { useState, useEffect } from "react";
 
 function Home() {
